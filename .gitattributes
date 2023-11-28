@@ -1,0 +1,4 @@
+B:/git/milo-rnd-library/lrb/xbox/1.0/cutscenes/auditions/gen/audition.milo_xbox filter=lfs diff=lfs merge=lfs -text
+B:/git/milo-rnd-library/lrb/xbox/1.0/cutscenes/auditions/gen/audition_testing.milo_xbox filter=lfs diff=lfs merge=lfs -text
+B:/git/milo-rnd-library/lrb/xbox/1.0/cutscenes/audition_1_guitar/gen/audition_1_guitar.milo_xbox filter=lfs diff=lfs merge=lfs -text
+B:/git/milo-rnd-library/lrb/xbox/1.0/cutscenes/audition_2_vocal/gen/audition_2_vocal.milo_xbox filter=lfs diff=lfs merge=lfs -text
